@@ -1,6 +1,7 @@
-- 👋 Hello there, I'm Junior, but you can call me JJ. I am a 2nd year CS student residing in Cape Town, South Africa
-- 👀 Mainly Interested in AI and Mobile Dev, generally the entire CS realm is quite interesting.
-- 🌱 I’m currently learning Java, Kotlin and Python(For Tensorflow) as we speak.
+- 👋 Hello there, I'm Junior, but you can call me JJ. I am a 3rd year Computer Science & Computer Engineering student residing in Cape Town, South Africa
+- 👀 Mainly Interested in AI and Web development, generally the entire CS realm is quite interesting.
+- 
+- 🌱 I’m personally learning about Deep Learning through TF, as well as Web Development  as we speak.
 
 - 📫 How to reach me: j.r.t.johane@gmail.com
 
