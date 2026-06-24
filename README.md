@@ -1,4 +1,4 @@
-- 👋 Hello there, I'm Junior, but you can call me JJ. I am a computer Science Graduate From the University Of Cape Town.
+- 👋 Hello there, I'm Junior, but you can call me JJ. I am a Masters in Advanced Computer Science student from the University of Liverpool.
 - 👀 Currently focused on the aspects of Data Science/Analysis and Full Stack Web/Mobile Development.
 - Current Side Project: A Multiplayer Soccer Prediction App of the Premier League, using Flutter and Firebase
 - 🌱 Eat, Sleep, Code, Live.
